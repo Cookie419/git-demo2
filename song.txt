@@ -1,3 +1,3 @@
 The snow  glows white on the mountain tonight
-Not a footprint to be seen
-New line
+ a footprint to be seen
+Once again we add a new line.
