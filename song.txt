@@ -1,9 +1,9 @@
 The snow  glows white on the mountain tonight
  a footprint to be seen
-<<<<<<< HEAD
 Once again we add a new line.
-=======
->>>>>>> ec3aff2de4cd883fd157e9fe1215d90e0e791c4b
---merge branches, master, remote/origin/masters
 
-new line yet again #3
+ It's again new line
+ ############################# 
+
+new line yet again
+###################3
