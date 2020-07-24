@@ -4,3 +4,6 @@ The snow  glows white on the mountain tonight
 Once again we add a new line.
 =======
 >>>>>>> ec3aff2de4cd883fd157e9fe1215d90e0e791c4b
+--merge branches, master, remote/origin/masters
+
+new line yet again #3
