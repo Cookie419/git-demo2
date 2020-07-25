@@ -8,3 +8,4 @@ Once again we add a new line.
 new line yet again
 
 first commit in feature
+second commit in feature
