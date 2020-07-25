@@ -8,3 +8,4 @@ Once again we add a new line.
 --merge the branches master, remotes/origin/master
 
 first commit in feature
+second commit in feature
