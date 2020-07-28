@@ -9,3 +9,6 @@ Once again we add a new line.
 
 first commit in feature
 second commit in feature
+
+New non conflict part
+changes from feature
